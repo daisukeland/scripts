@@ -1,0 +1,13 @@
+{
+  "name": "@dais/scripts",
+  "version": "0.0.1-beta.0",
+  "description": "Configuration and scripts for Create App.",
+  "bin": {
+    "dais-scripts": "bin/dais-scripts.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
