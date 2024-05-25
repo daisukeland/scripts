@@ -6,4 +6,5 @@ git config --global user.name "daisukeland"
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/daisukeland/scripts.git
-git push -u origin main
+@REM git push -u origin main
+git pull origin main
